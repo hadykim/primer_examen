@@ -1,0 +1,7 @@
+ .lista li a:hover {
+    text-decoration: line-through;
+}
+
+.red::-webkit-input-placeholder {
+    color: red;
+  }
